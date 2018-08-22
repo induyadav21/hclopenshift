@@ -1,0 +1,11 @@
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\bin\Debug\netcoreapp2.0\example.deps.json
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\bin\Debug\netcoreapp2.0\example.runtimeconfig.json
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\bin\Debug\netcoreapp2.0\example.runtimeconfig.dev.json
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\bin\Debug\netcoreapp2.0\example.dll
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\bin\Debug\netcoreapp2.0\example.pdb
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\obj\Debug\netcoreapp2.0\example.csprojResolveAssemblyReference.cache
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\obj\Debug\netcoreapp2.0\example.csproj.CoreCompileInputs.cache
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\obj\Debug\netcoreapp2.0\example.AssemblyInfoInputs.cache
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\obj\Debug\netcoreapp2.0\example.AssemblyInfo.cs
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\obj\Debug\netcoreapp2.0\example.dll
+D:\!RedHat\Repos\dotnet-core-2.0-example\example\example\obj\Debug\netcoreapp2.0\example.pdb
